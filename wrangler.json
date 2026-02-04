@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "phreshtechmedia",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c7d4df7b-79e4-4c99-a8ec-76418af10741",
+			"database_name": "phreshideasplusdesigns-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
